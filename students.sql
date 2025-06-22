@@ -57,3 +57,5 @@ VALUES(
         2022,
         'Faculty of Information Technology'
     );
+
+    
